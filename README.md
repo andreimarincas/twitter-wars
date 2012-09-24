@@ -1,5 +1,5 @@
-TwitterWars
-===========
+Twitter Wars
+============
 
 Please refer to <https://gist.github.com/991055> Task 1.
 <br /><br />
