@@ -75,7 +75,7 @@ This work is done by *dbspell.php* for statuses already fetched and added to the
 *$ php dbspell.php [since] [until] [place]*<br /><br />
 **[since]** Analyze statuses after this “Y-m-d” date.<br />
 **[until]** Analyze statuses no older than this “Y-m-d” date.<br />
-**[place]** London or Exeter. or all statuses in the given interval, from Exeter.<br /><br />
+**[place]** London or Exeter.<br /><br />
 Example:<br /><br />
 *$ php dbspell.php 2012-09-16 2012-09-20 Exeter*<br /><br />
 This will check the spelling for all statuses in the given interval, from Exeter.<br />
