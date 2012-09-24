@@ -89,6 +89,6 @@ You can also specify the number of days for which to generate the report, before
 *http://localhost:8888/TwitterWars/index.php?days=5&until=2012-09-19*<br /><br />
 will output this: <br />
 
-![twitter_spelling.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/TwitterWars/images/twitter_spelling.png)
+![twitter_spelling.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/images/twitter_spelling.png)
 <br />
-![twitter_count.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/TwitterWars/images/twitter_count.png)
+![twitter_count.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/images/twitter_count.png)
