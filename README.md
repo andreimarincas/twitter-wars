@@ -35,7 +35,7 @@ Then open the Terminal to run some scripts (see *Running* section), and finaly o
 
 ###Database
 <br />
-Open *phpMyAdmin()* in browser and import twitter_wars.sql. Then run this to create a database with the tables *london_tweets* and *exeter_tweets*. They contain Twitter data for the last week.<br /><br />
+Open *phpMyAdmin* in your browser (MAMP *Open start page* or type *http://localhost:8888/MAMP/?language=English*, then select *phpMyAdmin* tab) and import *twitter_wars.sql*. Then run this to create a database with the tables *london_tweets* and *exeter_tweets*. They contain Twitter data for the last week.<br /><br />
 Create a user and grant him full priviledges to twitter_wars database. In my case the SQL connection is established through the following defines in config.php:<br /><br />
 
 *define('DB_HOST', 'localhost');<br />
