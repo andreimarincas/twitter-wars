@@ -82,7 +82,6 @@
     
     /*
 //    $text = "I have never ben so hapy";
-//    $text = "RT @danielshannon97: Fuck, just realised I missed bad education:(";
 //    $text = "@Indigo_Blues_ @aquamarine_jo @brookesey66 @indigo_blues_ was that a deleted scene! LOL";
 //    $text = "Accidently cloned myself again. #GodsSake http://t.co/ah7nlPPT";
     
