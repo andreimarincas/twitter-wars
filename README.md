@@ -29,7 +29,7 @@ Edit /etc/php.ini to set this socket to mysql.default_socket <br />
 ##Configuration
 
 <br />
-Unzip *TwitterWars.zip* into Apache’s document root folder. <br />
+Download this as *zip* and extract *TwitterWars* project folder into Apache’s document root folder. <br />
 Then open the Terminal to run some scripts, and finaly open a browser (I used Mozilla Firefox 15.0.1) to view some results.
 <br />
 
