@@ -1,0 +1,105 @@
+Fetching tweets from the given place: London
+
+date : 2012-09-21 (1348185600)
+tweetsCount: 93
+tweetsCount: 182
+tweetsCount: 273
+
+date : 2012-09-20 (1348099200)
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 91
+tweetsCount: 183
+tweetsCount: 278
+tweetsCount: 373
+tweetsCount: 470
+tweetsCount: 566
+tweetsCount: 659
+tweetsCount: 754
+tweetsCount: 848
+tweetsCount: 945
+tweetsCount: 1000
+
+date : 2012-09-19 (1348012800)
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 55
+tweetsCount: 152
+tweetsCount: 248
+tweetsCount: 346
+tweetsCount: 442
+tweetsCount: 536
+tweetsCount: 627
+tweetsCount: 720
+tweetsCount: 810
+tweetsCount: 906
+tweetsCount: 1000
+
+date : 2012-09-18 (1347926400)
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+tweetsCount: 0
+
+date : 2012-09-17 (1347840000)
+
+date : 2012-09-16 (1347753600)
+
+date : 2012-09-15 (1347667200)

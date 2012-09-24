@@ -1,0 +1,5 @@
+Fetching tweets from the given place: Exeter
+
+date : 2012-09-21 (1348185600)
+tweetsCount: 99
+tweetsCount: 199
