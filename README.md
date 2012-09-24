@@ -60,7 +60,6 @@ To disable printing the statuses to the console pass “h” as the 1st argument
 *$ php twitter_fetcher.php h*
 
 <br />
-
 ###Retrieving older statuses
 
 <br />
@@ -94,4 +93,4 @@ will output this: <br /><br />
 
 ![twitter_spelling.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/TwitterWars/images/twitter_spelling.png)
 <br />
-![twitter_count.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/TwitterWars/images/twitter_spelling.png)
+![twitter_count.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/TwitterWars/images/twitter_count.png)
