@@ -46,9 +46,7 @@ define('DB_NAME', 'twitter_wars');<br />*
 <br />
 
 ##Running
-
 <br />
-
 ###Fetching Twitter Data
 <br />
 To connect to and consume the Twitter stream via the Streaming API: <br /><br />
@@ -89,7 +87,7 @@ In order to compare the spelling quality of statuses from London and Exeter, I g
 This will output the spelling correctness for the tweets over the last week, for those that are spellchecked.<br />
 You can also specify the number of days for which to generate the report, before a given date. Example:<br /><br />
 *http://localhost:8888/TwitterWars/index.php?days=5&until=2012-09-19*<br /><br />
-will output this: <br /><br />
+will output this: <br />
 
 ![twitter_spelling.png](https://github.com/andreimarincas/twitter-wars/blob/master/TwitterWars/TwitterWars/images/twitter_spelling.png)
 <br />
