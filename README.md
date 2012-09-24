@@ -47,6 +47,8 @@ define('DB_NAME', 'twitter_wars');<br />*
 
 ##Running
 <br />
+First of all, start Apache Server and MySQL server in MAMP.
+
 ###Fetching Twitter Data
 <br />
 To connect to and consume the Twitter stream via the Streaming API: <br /><br />
